@@ -1,7 +1,5 @@
 class RootController < ApplicationController
-  def index
-    
-  end
+  def index; end
 
   def random_msg
     @msg = Greeting.find(Greeting.pluck(:id).sample)
