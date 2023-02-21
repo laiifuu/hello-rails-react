@@ -20,7 +20,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails Backend <a name="about-project"></a>
+# 📖 Hello Rails REACT <a name="about-project"></a>
 
 **Hello Rails React** is an application created to understand how to setup a rails backend with a react frontend in the same project. 
 ## 🛠 Built With <a name="built-with"></a>
@@ -73,6 +73,7 @@ Then install the project's necessary dependencies with:
 ```
 bundle install
 yarn install
+npm i
 ```
 
 ### Setup database
